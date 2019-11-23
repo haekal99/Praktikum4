@@ -52,6 +52,6 @@ while jawab =='y':
 
 **Flowchart**
 
-![1](https://user-images.githubusercontent.com/56957271/69475291-ee0df300-0dfd-11ea-99da-03b5db99ba46.JPG)
+![1](https://user-images.githubusercontent.com/56957271/69475349-8c01bd80-0dfe-11ea-87be-2501688d7df3.JPG)
 
 # SELESAI
