@@ -52,6 +52,6 @@ while jawab =='y':
 
 **Flowchart**
 
-![flochart praktikum 4](https://user-images.githubusercontent.com/56957271/69406748-62309400-0d35-11ea-999d-f3230d816359.JPG)
+![1](https://user-images.githubusercontent.com/56957271/69475291-ee0df300-0dfd-11ea-99da-03b5db99ba46.JPG)
 
 # SELESAI
